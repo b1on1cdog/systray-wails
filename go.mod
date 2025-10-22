@@ -1,4 +1,4 @@
-module github.com/getlantern/systray
+module github.com/b1on1cdog/systray-wails
 
 go 1.13
 
